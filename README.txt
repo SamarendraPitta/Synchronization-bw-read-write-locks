@@ -1,11 +1,3 @@
-Group information:
-Member 1: Samarendra Pitta - 2885323.
-Member 2: Nishitha Ravella - 2885903.
-
-Contribution distribution:
-
-Samarendra Pitta - 50%
-Nishitha Ravella - 50%
 
 Project Description:
 
@@ -360,10 +352,3 @@ executing writer thread
 thread2 ===> Deposit thread iteration 0
 the balnce is 10026
 the balnce is 10026
-
-#Bonus:
-I have implemented the bonus that is writer threads are prioritzed.
-
-#Existing Bugs:
-Every thing is implemented, No existing bugs.
-Have implemented bonus point also.
